@@ -1,9 +1,10 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
-  Welcome to the Nope Game!
-  https://the-nope-game.netlify.app/              
+  Welcome to the Nope Game!             
 </h1>
 
+https://the-nope-game.netlify.app/ 
+ 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._

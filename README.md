@@ -1,7 +1,8 @@
+![Page1](https://user-images.githubusercontent.com/33415636/111067362-f0093300-84d4-11eb-9948-bb01a2e8591a.png)
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://the-nope-game.netlify.app/">
-    <img alt="Nope" src="/Screenshots/Page1.png" width="60" />
+    <img alt="Nope" src="https://user-images.githubusercontent.com/33415636/111067378-044d3000-84d5-11eb-80d9-a09df9b4ec1b.png/>
   </a>
 </p>
 <h1 align="center">

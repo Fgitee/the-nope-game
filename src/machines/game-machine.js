@@ -10,7 +10,7 @@ import * as gatsby from "gatsby"
 // two guarded screen navigations are to the final results screen
 // & to anything past "do you know what's requested of you?"
 //
-// Users can havigate around all they like
+// Users can navigate around all they like
 // - keyboard up and down
 // - clicks on arrows
 // - enough scroll up and down to trigger the animation
